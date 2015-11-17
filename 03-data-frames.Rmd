@@ -7,7 +7,7 @@ minutes: 30
 
 ```{r, echo=FALSE, purl=FALSE, message = FALSE}
 source("setup.R")
-surveys <- read.csv("data/portal_data_joined.csv")
+surveys <- read.csv("data/cytokines.csv")
 ```
 
 ```{r, echo=FALSE, purl=TRUE}
