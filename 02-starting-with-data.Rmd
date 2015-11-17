@@ -56,7 +56,7 @@ by typing `dir.create("data")` at the terminal.
 
 ```{r, eval=FALSE, purl=TRUE}
 download.file("http://files.figshare.com/2441249/Cytokines.csv",
-              "data/portal_data_joined.csv")
+              "data/Cytokines.csv")
 ```
 
 You are now ready to load the data:
